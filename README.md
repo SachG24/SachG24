@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SachG24
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me Sachgill2016@gmail.com
+- 📫 How to reach me: Sachgill2016@gmail.com
 - 😄 Pronouns: he/him
 
 
